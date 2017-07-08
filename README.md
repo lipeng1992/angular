@@ -1,2 +1,1 @@
-# angular
-just for study angular.js
+happy new year完事不用再提，人生已多风雨，纵然记忆抹不去爱与恨都还在新林，草拟满宝宝
